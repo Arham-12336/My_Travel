@@ -2,37 +2,27 @@
 
 <img align="right" src="./Travel.gif" height="500px"/>
 
-## About
+# About
 A Travel website with complete responsive features and modern UI using HTML and CSS and some JavaScript 
 
+# Features:
 
+ - Packages
+ - UP coming Tours
+ - Most Popular Destinations
+ - News Letter
+ - Quick links
+ - Connect using different social media apps
+ - Responsive Design
 
-## Usage
+# Tools:
+ - HTML5
+ - CSS
+ - JavaScript
+ - VsCode
+ - Git
 
-### Using via CSS
+# Start contributing
 
-1. Include the stylesheet on your document's `<head>`
-
-```html
-<head>
-  <link rel="stylesheet" href="boxicons.min.css">
-</head>
-```
-
-Instead of installing you may use the remote version 
-
-```html
-<head>
-  <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
-  <!-- or -->
-  <link rel="stylesheet"
-  href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-</head>
-```
-2. To use an icon on your page, add a class 'bx' and seperate class with the icons name with a prefix 'bx-' for regular icons , 'bxs-' for solid icons and 'bxl-' for logos:
-
-```html
-<i class="bx bx-hot"></i>
-<i class="bx bxs-hot"></i>
-<i class="bx bxl-facebook-square"></i>
+Make sure you have all the basic tools before you start working on this project.Fork this repository and contribute back using pull requests to the main branch.
+	
