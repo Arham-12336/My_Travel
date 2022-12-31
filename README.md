@@ -1,6 +1,6 @@
 # My_Travel-website
 
-<img align="right" src="./Travel.gif" height="700px"/>
+<img align="right" src="./Travel.gif" height="600px"/>
 
 # About
 A Travel website with complete responsive features and modern UI using HTML and CSS and some JavaScript 
